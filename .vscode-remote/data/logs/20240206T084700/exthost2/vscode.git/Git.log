@@ -1,0 +1,7 @@
+2024-02-06 08:51:36.403 [info] ログ レベル: Info
+2024-02-06 08:51:36.403 [info] Git の検証が検出されました: "git"
+2024-02-06 08:51:36.403 [info] "git" から Git "2.43.0" を使用しています
+2024-02-06 08:51:36.403 [info] > git rev-parse --show-toplevel [5ms]
+2024-02-06 08:51:36.403 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-06 08:51:36.441 [info] > git rev-parse --show-toplevel [19ms]
+2024-02-06 08:51:36.463 [info] > git rev-parse --show-toplevel [2ms]

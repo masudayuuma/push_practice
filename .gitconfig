@@ -1,0 +1,7 @@
+[user]
+	name = <増田悠真>
+	email = <ri0155sk@ed.ritsumei.ac.jp>
+[init]
+	defaultBranch = main
+[core]
+	editor = code --wait

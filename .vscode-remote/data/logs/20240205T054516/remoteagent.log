@@ -1,0 +1,236 @@
+2024-02-05 05:45:16.675 [trace] Remote configuration data at /home/vscode/.vscode-remote
+2024-02-05 05:45:16.675 [trace] process arguments: {"_":[],"host":"127.0.0.1","port":"0","connection-token-file":"/home/vscode/.vscode-remote/data/Machine/.connection-token-8b3775030ed1a69b13e4f4c628c612102e30a681","without-connection-token":false,"disable-websocket-compression":false,"print-startup-performance":false,"print-ip-address":false,"accept-server-license-terms":true,"server-data-dir":"/home/vscode/.vscode-remote","enable-smoke-test-driver":false,"disable-telemetry":false,"disable-workspace-trust":false,"log":["trace"],"force-disable-user-env":true,"enable-sync":false,"use-test-resolver":false,"extensions-download-dir":"/home/vscode/.vscode-remote/extensionsCache","install-extension":["ms-azuretools.vscode-docker","dbaeumer.vscode-eslint","github.copilot","loiane.ts-extension-pack","mechatroner.rainbow-csv","mhutchie.git-graph","mikestead.dotenv","ms-vsliveshare.vsliveshare","ms-vscode.live-server","prisma.prisma"],"install-builtin-extension":["GitHub.vscode-pull-request-github","github.github-vscode-theme","github.codespaces"],"list-extensions":false,"show-versions":false,"force":false,"do-not-sync":true,"pre-release":false,"start-server":true,"enable-remote-auto-shutdown":true,"remote-auto-shutdown-without-delay":false,"use-host-proxy":false,"without-browser-env-var":false,"help":false,"version":false,"user-data-dir":"/home/vscode/.vscode-remote/data","builtin-extensions-dir":"/vscode/bin/linux-x64/8b3775030ed1a69b13e4f4c628c612102e30a681/extensions","extensions-dir":"/home/vscode/.vscode-remote/extensions","logsPath":"/home/vscode/.vscode-remote/data/logs/20240205T054516"}
+2024-02-05 05:45:16.675 [info] 
+
+
+
+
+2024-02-05 05:45:16.675 [trace] [File Watcher (node.js)] Request to start watching: /home/vscode/.vscode-remote/data/Machine (excludes: <none>, includes: <all>, correlationId: <none>),/home/vscode/.vscode-remote/data/Machine/settings.json (excludes: <none>, includes: <all>, correlationId: <none>)
+2024-02-05 05:45:16.675 [trace] Installing builtin extensions passed via args...
+2024-02-05 05:45:16.675 [trace] Started scanning user extensions {"$mid":1,"external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2024-02-05 05:45:16.675 [trace] Installing extensions passed via args...
+2024-02-05 05:45:16.675 [info] Extension host agent started.
+2024-02-05 05:45:16.675 [trace] [File Watcher (node.js)] Request to start watching: /home/vscode/.vscode-remote/extensions (excludes: <none>, includes: <all>, correlationId: <none>)
+2024-02-05 05:45:16.677 [info] Started initializing default profile extensions in extensions installation folder. file:///home/vscode/.vscode-remote/extensions
+2024-02-05 05:45:16.677 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions","external":"file:///home/vscode/.vscode-remote/extensions","path":"/home/vscode/.vscode-remote/extensions","scheme":"file"}
+2024-02-05 05:45:16.678 [trace] [File Watcher (node.js)] Started watching: '/home/vscode/.vscode-remote/data/Machine'
+2024-02-05 05:45:16.703 [trace] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/vscode/.vscode-remote/data/Machine/settings.json'
+2024-02-05 05:45:16.706 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/ms-toolsai.jupyter-2024.2.2024020201
+2024-02-05 05:45:16.706 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/vscjava.vscode-java-dependency-0.23.2024010506
+2024-02-05 05:45:16.706 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/ritwickdey.liveserver-5.7.9
+2024-02-05 05:45:16.706 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/vscjava.vscode-java-debug-0.56.2024013105
+2024-02-05 05:45:16.709 [trace] [File Watcher (node.js)] Started watching: '/home/vscode/.vscode-remote/extensions'
+2024-02-05 05:45:16.714 [debug] ComputeTargetPlatform: linux-x64
+2024-02-05 05:45:16.714 [trace] Scanned user extensions: 0
+2024-02-05 05:45:16.719 [trace] [File Watcher (node.js)] [raw] ["rename"] extensions.json
+2024-02-05 05:45:16.719 [trace] [File Watcher (node.js)] [raw] ["change"] extensions.json
+2024-02-05 05:45:16.719 [trace] [File Watcher (node.js)] [ADDED] /home/vscode/.vscode-remote/extensions/extensions.json
+2024-02-05 05:45:16.736 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/vscode/.vscode-remote/extensions
+2024-02-05 05:45:16.737 [trace] [File Watcher (node.js)] Request to start watching: /home/vscode/.vscode-remote/extensions/extensions.json (excludes: <none>, includes: <all>, correlationId: <none>)
+2024-02-05 05:45:16.739 [trace] Scanned user extensions: 0
+2024-02-05 05:45:16.740 [trace] [File Watcher (node.js)] Started watching: '/home/vscode/.vscode-remote/extensions/extensions.json'
+2024-02-05 05:45:16.740 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions","external":"file:///home/vscode/.vscode-remote/extensions","path":"/home/vscode/.vscode-remote/extensions","scheme":"file"}
+2024-02-05 05:45:16.741 [debug] ComputeTargetPlatform: linux-x64
+2024-02-05 05:45:16.742 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2024-02-05 05:45:16.799 [trace] [File Watcher (node.js)]  >> normalized [ADDED] /home/vscode/.vscode-remote/extensions/extensions.json
+2024-02-05 05:45:16.803 [trace] Scanned user extensions: 0
+2024-02-05 05:45:16.823 [trace] [File Watcher (node.js)] [CHANGED] /home/vscode/.vscode-remote/extensions/extensions.json
+2024-02-05 05:45:16.899 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/vscode/.vscode-remote/extensions/extensions.json
+2024-02-05 05:45:17.078 [info] [127.0.0.1][63008f10][ManagementConnection] New connection established.
+2024-02-05 05:45:17.080 [trace] [127.0.0.1][670f3fa2][ExtensionHostConnection] - startParams language: ja
+2024-02-05 05:45:17.080 [trace] [127.0.0.1][670f3fa2][ExtensionHostConnection] - startParams env: {}
+2024-02-05 05:45:17.080 [info] [127.0.0.1][670f3fa2][ExtensionHostConnection] New connection established.
+2024-02-05 05:45:17.084 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2024-02-05 05:45:17.092 [info] [127.0.0.1][670f3fa2][ExtensionHostConnection] <767> Launched Extension Host Process.
+2024-02-05 05:45:17.172 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2024-02-05 05:45:17.381 [trace] Started scanning system extensions
+2024-02-05 05:45:17.384 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2024-02-05 05:45:17.386 [trace] ExtensionManagementService.refreshReportedCache
+2024-02-05 05:45:17.387 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2024-02-05 05:45:17.389 [trace] Started scanning system extensions
+2024-02-05 05:45:17.390 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2024-02-05 05:45:17.393 [trace] Started scanning system extensions
+2024-02-05 05:45:17.395 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2024-02-05 05:45:17.399 [info] Log level changed to info
+2024-02-05 05:45:19.559 [info] Installing builtin extension 'github.github-vscode-theme'...
+2024-02-05 05:45:19.564 [info] Getting Manifest... github.github-vscode-theme
+2024-02-05 05:45:19.626 [info] Installing builtin extension 'github.vscode-pull-request-github'...
+2024-02-05 05:45:19.647 [info] Installing builtin extension 'github.codespaces'...
+2024-02-05 05:45:19.650 [info] Getting Manifest... github.codespaces
+2024-02-05 05:45:19.708 [info] Installing extension: github.github-vscode-theme
+2024-02-05 05:45:19.735 [info] Installing extension: github.codespaces
+2024-02-05 05:45:21.288 [warning] Extension signature verification failed with error 'ENOENT': github.github-vscode-theme
+2024-02-05 05:45:21.340 [warning] Extension signature verification failed with error 'ENOENT': github.codespaces
+2024-02-05 05:45:21.686 [info] Getting Manifest... github.vscode-pull-request-github
+2024-02-05 05:45:21.818 [info] Installing extension: github.vscode-pull-request-github
+2024-02-05 05:45:22.312 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/github.github-vscode-theme-6.3.4: github.github-vscode-theme
+2024-02-05 05:45:22.355 [info] Renamed to /home/vscode/.vscode-remote/extensions/github.github-vscode-theme-6.3.4
+2024-02-05 05:45:22.374 [info] Extracting extension completed. github.github-vscode-theme
+2024-02-05 05:45:22.569 [info] Extension installed successfully: github.github-vscode-theme
+2024-02-05 05:45:22.572 [info] Extension 'github.github-vscode-theme' v6.3.4 was successfully installed.
+2024-02-05 05:45:23.427 [warning] Extension signature verification failed with error 'ENOENT': github.vscode-pull-request-github
+2024-02-05 05:45:25.194 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.78.1: github.vscode-pull-request-github
+2024-02-05 05:45:25.379 [info] Renamed to /home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.78.1
+2024-02-05 05:45:25.393 [info] Extracting extension completed. github.vscode-pull-request-github
+2024-02-05 05:45:25.441 [info] Extension installed successfully: github.vscode-pull-request-github
+2024-02-05 05:45:25.469 [info] Extension 'github.vscode-pull-request-github' v0.78.1 was successfully installed.
+2024-02-05 05:45:25.659 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/github.codespaces-1.16.9: github.codespaces
+2024-02-05 05:45:25.689 [info] Renamed to /home/vscode/.vscode-remote/extensions/github.codespaces-1.16.9
+2024-02-05 05:45:25.718 [info] Extracting extension completed. github.codespaces
+2024-02-05 05:45:25.744 [info] Extension installed successfully: github.codespaces
+2024-02-05 05:45:25.761 [info] Extension 'github.codespaces' v1.16.9 was successfully installed.
+2024-02-05 05:45:25.761 [info] Installing extensions...
+2024-02-05 05:45:25.784 [info] Installing extensions...
+2024-02-05 05:45:26.519 [info] Installing extension 'ms-ceintl.vscode-language-pack-ja'...
+2024-02-05 05:45:26.520 [info] Getting Manifest... ms-ceintl.vscode-language-pack-ja
+2024-02-05 05:45:26.552 [info] Installing extension: ms-ceintl.vscode-language-pack-ja
+2024-02-05 05:45:27.337 [info] Installing extension 'dbaeumer.vscode-eslint'...
+2024-02-05 05:45:27.338 [info] Getting Manifest... dbaeumer.vscode-eslint
+2024-02-05 05:45:27.347 [info] Installing extension 'loiane.ts-extension-pack'...
+2024-02-05 05:45:27.348 [info] Getting Manifest... loiane.ts-extension-pack
+2024-02-05 05:45:27.353 [info] Installing extension 'mechatroner.rainbow-csv'...
+2024-02-05 05:45:27.354 [info] Getting Manifest... mechatroner.rainbow-csv
+2024-02-05 05:45:27.371 [info] Installing extension 'mikestead.dotenv'...
+2024-02-05 05:45:27.371 [info] Getting Manifest... mikestead.dotenv
+2024-02-05 05:45:27.377 [info] Installing extension 'ms-vsliveshare.vsliveshare'...
+2024-02-05 05:45:27.377 [info] Getting Manifest... ms-vsliveshare.vsliveshare
+2024-02-05 05:45:27.383 [info] Installing extension 'mhutchie.git-graph'...
+2024-02-05 05:45:27.384 [info] Getting Manifest... mhutchie.git-graph
+2024-02-05 05:45:27.390 [info] Installing extension 'ms-azuretools.vscode-docker'...
+2024-02-05 05:45:27.391 [info] Getting Manifest... ms-azuretools.vscode-docker
+2024-02-05 05:45:27.395 [info] Installing extension 'ms-vscode.live-server'...
+2024-02-05 05:45:27.396 [info] Getting Manifest... ms-vscode.live-server
+2024-02-05 05:45:27.412 [info] Installing extension 'prisma.prisma'...
+2024-02-05 05:45:27.412 [info] Getting Manifest... prisma.prisma
+2024-02-05 05:45:27.428 [info] Installing extension 'github.copilot'...
+2024-02-05 05:45:27.429 [info] Getting Manifest... github.copilot
+2024-02-05 05:45:27.457 [info] Installing extension: dbaeumer.vscode-eslint
+2024-02-05 05:45:27.458 [info] Installing extension: loiane.ts-extension-pack
+2024-02-05 05:45:27.460 [info] Installing extension: mechatroner.rainbow-csv
+2024-02-05 05:45:27.461 [info] Installing extension: mikestead.dotenv
+2024-02-05 05:45:27.504 [info] Installing extension: ms-vscode.live-server
+2024-02-05 05:45:27.507 [info] Installing extension: prisma.prisma
+2024-02-05 05:45:27.509 [info] Installing extension: github.copilot
+2024-02-05 05:45:27.511 [info] Installing extension: mhutchie.git-graph
+2024-02-05 05:45:27.517 [info] Installing extension: ms-azuretools.vscode-docker
+2024-02-05 05:45:27.620 [info] Installing extension: ms-vsliveshare.vsliveshare
+2024-02-05 05:45:29.267 [warning] Extension signature verification failed with error 'ENOENT': ms-ceintl.vscode-language-pack-ja
+2024-02-05 05:45:29.372 [info] Getting Manifest... esbenp.prettier-vscode
+2024-02-05 05:45:29.896 [info] Getting Manifest... christian-kohler.path-intellisense
+2024-02-05 05:45:30.315 [info] Getting Manifest... rbbit.typescript-hero
+2024-02-05 05:45:30.906 [info] Getting Manifest... pmneo.tsimporter
+2024-02-05 05:45:31.617 [info] Getting Manifest... stringham.move-ts
+2024-02-05 05:45:32.229 [info] Getting Manifest... gregorbiswanger.json2ts
+2024-02-05 05:45:33.935 [warning] Extension signature verification failed with error 'ENOENT': dbaeumer.vscode-eslint
+2024-02-05 05:45:34.087 [info] Installing extension: esbenp.prettier-vscode loiane.ts-extension-pack
+2024-02-05 05:45:34.088 [info] Installing extension: christian-kohler.path-intellisense loiane.ts-extension-pack
+2024-02-05 05:45:34.088 [info] Installing extension: rbbit.typescript-hero loiane.ts-extension-pack
+2024-02-05 05:45:34.088 [info] Installing extension: pmneo.tsimporter loiane.ts-extension-pack
+2024-02-05 05:45:34.089 [info] Installing extension: stringham.move-ts loiane.ts-extension-pack
+2024-02-05 05:45:34.089 [info] Installing extension: gregorbiswanger.json2ts loiane.ts-extension-pack
+2024-02-05 05:45:35.728 [warning] Extension signature verification failed with error 'ENOENT': ms-azuretools.vscode-docker
+2024-02-05 05:45:36.169 [warning] Extension signature verification failed with error 'ENOENT': mechatroner.rainbow-csv
+2024-02-05 05:45:36.368 [warning] Extension signature verification failed with error 'ENOENT': mikestead.dotenv
+2024-02-05 05:45:36.433 [warning] Extension signature verification failed with error 'ENOENT': esbenp.prettier-vscode
+2024-02-05 05:45:36.720 [warning] Extension signature verification failed with error 'ENOENT': mhutchie.git-graph
+2024-02-05 05:45:36.722 [warning] Extension signature verification failed with error 'ENOENT': prisma.prisma
+2024-02-05 05:45:36.767 [warning] Extension signature verification failed with error 'ENOENT': ms-vscode.live-server
+2024-02-05 05:45:36.849 [warning] Extension signature verification failed with error 'ENOENT': ms-vsliveshare.vsliveshare
+2024-02-05 05:45:36.910 [info] Getting Manifest... github.copilot-chat
+2024-02-05 05:45:37.932 [warning] Extension signature verification failed with error 'ENOENT': christian-kohler.path-intellisense
+2024-02-05 05:45:37.999 [info] Installing extension: github.copilot-chat github.copilot
+2024-02-05 05:45:38.292 [warning] Extension signature verification failed with error 'ENOENT': pmneo.tsimporter
+2024-02-05 05:45:38.296 [warning] Extension signature verification failed with error 'ENOENT': rbbit.typescript-hero
+2024-02-05 05:45:38.514 [warning] Extension signature verification failed with error 'ENOENT': stringham.move-ts
+2024-02-05 05:45:38.563 [warning] Extension signature verification failed with error 'ENOENT': gregorbiswanger.json2ts
+2024-02-05 05:45:39.354 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/mikestead.dotenv-1.0.1: mikestead.dotenv
+2024-02-05 05:45:39.424 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/dbaeumer.vscode-eslint-2.4.4: dbaeumer.vscode-eslint
+2024-02-05 05:45:39.443 [info] Renamed to /home/vscode/.vscode-remote/extensions/mikestead.dotenv-1.0.1
+2024-02-05 05:45:39.507 [info] Renamed to /home/vscode/.vscode-remote/extensions/dbaeumer.vscode-eslint-2.4.4
+2024-02-05 05:45:39.521 [info] Extracting extension completed. mikestead.dotenv
+2024-02-05 05:45:39.642 [info] Extracting extension completed. dbaeumer.vscode-eslint
+2024-02-05 05:45:39.703 [info] Extension installed successfully: mikestead.dotenv
+2024-02-05 05:45:39.704 [info] Extension 'mikestead.dotenv' v1.0.1 was successfully installed.
+2024-02-05 05:45:40.086 [info] Extension installed successfully: dbaeumer.vscode-eslint
+2024-02-05 05:45:40.088 [info] Extension 'dbaeumer.vscode-eslint' v2.4.4 was successfully installed.
+2024-02-05 05:45:40.320 [warning] Extension signature verification failed with error 'ENOENT': github.copilot-chat
+2024-02-05 05:45:41.674 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/pmneo.tsimporter-2.0.1: pmneo.tsimporter
+2024-02-05 05:45:41.795 [info] Renamed to /home/vscode/.vscode-remote/extensions/pmneo.tsimporter-2.0.1
+2024-02-05 05:45:41.895 [info] Extracting extension completed. pmneo.tsimporter
+2024-02-05 05:45:42.775 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/ms-vscode.live-server-0.4.13: ms-vscode.live-server
+2024-02-05 05:45:42.849 [info] Renamed to /home/vscode/.vscode-remote/extensions/ms-vscode.live-server-0.4.13
+2024-02-05 05:45:42.916 [info] Extracting extension completed. ms-vscode.live-server
+2024-02-05 05:45:43.076 [info] Extension installed successfully: ms-vscode.live-server
+2024-02-05 05:45:43.078 [info] Extension 'ms-vscode.live-server' v0.4.13 was successfully installed.
+2024-02-05 05:45:43.315 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/christian-kohler.path-intellisense-2.8.5: christian-kohler.path-intellisense
+2024-02-05 05:45:43.389 [info] Renamed to /home/vscode/.vscode-remote/extensions/christian-kohler.path-intellisense-2.8.5
+2024-02-05 05:45:43.441 [info] Extracting extension completed. christian-kohler.path-intellisense
+2024-02-05 05:45:43.505 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/mechatroner.rainbow-csv-3.11.0: mechatroner.rainbow-csv
+2024-02-05 05:45:43.511 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/mhutchie.git-graph-1.30.0: mhutchie.git-graph
+2024-02-05 05:45:43.626 [info] Renamed to /home/vscode/.vscode-remote/extensions/mechatroner.rainbow-csv-3.11.0
+2024-02-05 05:45:43.657 [info] Renamed to /home/vscode/.vscode-remote/extensions/mhutchie.git-graph-1.30.0
+2024-02-05 05:45:43.685 [info] Extracting extension completed. mechatroner.rainbow-csv
+2024-02-05 05:45:43.735 [info] Extracting extension completed. mhutchie.git-graph
+2024-02-05 05:45:43.835 [info] Extension installed successfully: mechatroner.rainbow-csv
+2024-02-05 05:45:43.841 [info] Extension 'mechatroner.rainbow-csv' v3.11.0 was successfully installed.
+2024-02-05 05:45:43.985 [info] Extension installed successfully: mhutchie.git-graph
+2024-02-05 05:45:43.992 [info] Extension 'mhutchie.git-graph' v1.30.0 was successfully installed.
+2024-02-05 05:45:44.475 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ja-1.85.2024013109: ms-ceintl.vscode-language-pack-ja
+2024-02-05 05:45:44.568 [info] Renamed to /home/vscode/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ja-1.85.2024013109
+2024-02-05 05:45:44.628 [info] Extracting extension completed. ms-ceintl.vscode-language-pack-ja
+2024-02-05 05:45:44.720 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-ja
+2024-02-05 05:45:45.217 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-ja
+2024-02-05 05:45:45.226 [info] Extension 'ms-ceintl.vscode-language-pack-ja' v1.85.2024013109 was successfully installed.
+2024-02-05 05:45:46.086 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/ms-azuretools.vscode-docker-1.28.0: ms-azuretools.vscode-docker
+2024-02-05 05:45:46.203 [info] Renamed to /home/vscode/.vscode-remote/extensions/ms-azuretools.vscode-docker-1.28.0
+2024-02-05 05:45:46.342 [info] Extracting extension completed. ms-azuretools.vscode-docker
+2024-02-05 05:45:46.438 [info] Extension installed successfully: ms-azuretools.vscode-docker
+2024-02-05 05:45:46.442 [info] Extension 'ms-azuretools.vscode-docker' v1.28.0 was successfully installed.
+2024-02-05 05:45:46.680 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/esbenp.prettier-vscode-10.1.0: esbenp.prettier-vscode
+2024-02-05 05:45:46.738 [info] Renamed to /home/vscode/.vscode-remote/extensions/esbenp.prettier-vscode-10.1.0
+2024-02-05 05:45:46.793 [info] Extracting extension completed. esbenp.prettier-vscode
+2024-02-05 05:45:49.578 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/github.copilot-chat-0.11.1: github.copilot-chat
+2024-02-05 05:45:49.622 [info] Renamed to /home/vscode/.vscode-remote/extensions/github.copilot-chat-0.11.1
+2024-02-05 05:45:49.668 [info] Extracting extension completed. github.copilot-chat
+2024-02-05 05:45:51.859 [warning] Extension signature verification failed with error 'ENOENT': github.copilot
+2024-02-05 05:46:03.438 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/github.copilot-1.156.0: github.copilot
+2024-02-05 05:46:03.498 [info] Renamed to /home/vscode/.vscode-remote/extensions/github.copilot-1.156.0
+2024-02-05 05:46:03.510 [info] Extracting extension completed. github.copilot
+2024-02-05 05:46:03.559 [info] Extension installed successfully: github.copilot-chat
+2024-02-05 05:46:03.559 [info] Extension installed successfully: github.copilot
+2024-02-05 05:46:03.565 [info] Extension 'github.copilot' v1.156.0 was successfully installed.
+2024-02-05 05:46:06.405 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/ms-vsliveshare.vsliveshare-1.0.5905: ms-vsliveshare.vsliveshare
+2024-02-05 05:46:06.439 [info] Renamed to /home/vscode/.vscode-remote/extensions/ms-vsliveshare.vsliveshare-1.0.5905
+2024-02-05 05:46:06.474 [info] Extracting extension completed. ms-vsliveshare.vsliveshare
+2024-02-05 05:46:06.533 [info] Extension installed successfully: ms-vsliveshare.vsliveshare
+2024-02-05 05:46:06.554 [info] Extension 'ms-vsliveshare.vsliveshare' v1.0.5905 was successfully installed.
+2024-02-05 05:46:07.077 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/gregorbiswanger.json2ts-0.0.6: gregorbiswanger.json2ts
+2024-02-05 05:46:07.108 [info] Renamed to /home/vscode/.vscode-remote/extensions/gregorbiswanger.json2ts-0.0.6
+2024-02-05 05:46:07.133 [info] Extracting extension completed. gregorbiswanger.json2ts
+2024-02-05 05:46:07.669 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/stringham.move-ts-1.12.0: stringham.move-ts
+2024-02-05 05:46:07.692 [info] Renamed to /home/vscode/.vscode-remote/extensions/stringham.move-ts-1.12.0
+2024-02-05 05:46:07.696 [info] Extracting extension completed. stringham.move-ts
+2024-02-05 05:46:20.633 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/rbbit.typescript-hero-3.0.0: rbbit.typescript-hero
+2024-02-05 05:46:20.801 [info] Renamed to /home/vscode/.vscode-remote/extensions/rbbit.typescript-hero-3.0.0
+2024-02-05 05:46:20.808 [info] Extracting extension completed. rbbit.typescript-hero
+2024-02-05 05:46:21.885 [warning] Extension signature verification failed with error 'ENOENT': loiane.ts-extension-pack
+2024-02-05 05:46:22.001 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/loiane.ts-extension-pack-0.3.0: loiane.ts-extension-pack
+2024-02-05 05:46:22.048 [info] Renamed to /home/vscode/.vscode-remote/extensions/loiane.ts-extension-pack-0.3.0
+2024-02-05 05:46:22.068 [info] Extracting extension completed. loiane.ts-extension-pack
+2024-02-05 05:46:22.118 [info] Extension installed successfully: pmneo.tsimporter
+2024-02-05 05:46:22.118 [info] Extension installed successfully: christian-kohler.path-intellisense
+2024-02-05 05:46:22.121 [info] Extension installed successfully: esbenp.prettier-vscode
+2024-02-05 05:46:22.121 [info] Extension installed successfully: gregorbiswanger.json2ts
+2024-02-05 05:46:22.121 [info] Extension installed successfully: stringham.move-ts
+2024-02-05 05:46:22.121 [info] Extension installed successfully: rbbit.typescript-hero
+2024-02-05 05:46:22.121 [info] Extension installed successfully: loiane.ts-extension-pack
+2024-02-05 05:46:22.135 [info] Extension 'loiane.ts-extension-pack' v0.3.0 was successfully installed.
+2024-02-05 05:46:23.682 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/prisma.prisma-5.9.1: prisma.prisma
+2024-02-05 05:46:23.705 [info] Renamed to /home/vscode/.vscode-remote/extensions/prisma.prisma-5.9.1
+2024-02-05 05:46:23.708 [info] Extracting extension completed. prisma.prisma
+2024-02-05 05:46:23.736 [info] Extension installed successfully: prisma.prisma
+2024-02-05 05:46:23.738 [info] Extension 'prisma.prisma' v5.9.1 was successfully installed.
+2024-02-05 05:50:16.597 [info] New EH opened, aborting shutdown
+2024-02-05 06:03:22.004 [info] [127.0.0.1][385cc01a][ExtensionHostConnection] New connection established.
+2024-02-05 06:03:22.013 [info] [127.0.0.1][385cc01a][ExtensionHostConnection] <10781> Launched Extension Host Process.
+2024-02-05 06:03:22.014 [info] [127.0.0.1][3b3b00de][ManagementConnection] New connection established.
