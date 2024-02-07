@@ -5,3 +5,5 @@
 2024-02-07 01:59:58.422 [info] > git rev-parse --show-toplevel [10ms]
 2024-02-07 01:59:58.422 [info] > git rev-parse --show-toplevel [2ms]
 2024-02-07 01:59:58.422 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-07 02:03:02.026 [info] > git rev-parse --show-toplevel [3ms]
+2024-02-07 02:03:06.390 [info] > git rev-parse --show-toplevel [18ms]
