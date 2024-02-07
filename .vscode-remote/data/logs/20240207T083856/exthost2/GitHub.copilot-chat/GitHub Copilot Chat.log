@@ -1,0 +1,7 @@
+2024-02-07 08:44:37.012 [info] [gitExtensionService] Initializing Git extension service.
+2024-02-07 08:44:42.515 [info] [gitExtensionService] Successfully activated the vscode.git extension.
+2024-02-07 08:44:42.515 [info] [gitExtensionService] Enablement state of the vscode.git extension: true.
+2024-02-07 08:44:42.515 [info] [gitExtensionService] Successfully registered Git commit message provider.
+2024-02-07 08:44:43.093 [info] [auth] Logged in as masudayuuma
+2024-02-07 08:44:43.810 [info] [auth] Invalid copilot token: missing token: 403 
+2024-02-07 08:44:43.814 [info] [extension] GitHub Copilot could not connect to server. Extension activation failed: "No access to GitHub Copilot found. You are currently logged in as masudayuuma."

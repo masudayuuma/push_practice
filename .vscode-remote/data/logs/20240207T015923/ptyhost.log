@@ -1,1 +1,4 @@
 2024-02-07 02:00:06.347 [warning] Shell integration cannot be enabled for executable "/bin/sh" and args []
+2024-02-07 02:22:30.325 [info] Expanding terminal instance, old id -5bc5e76d-1 -> new id undefined
+2024-02-07 02:22:30.326 [info] Expanding terminal instance, old id -5bc5e76d-3 -> new id undefined
+2024-02-07 02:23:09.256 [warning] Shell integration cannot be enabled for executable "/bin/sh" and args []
