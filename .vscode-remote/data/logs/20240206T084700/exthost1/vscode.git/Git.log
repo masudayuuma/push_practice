@@ -9,3 +9,5 @@
 2024-02-06 08:47:26.261 [info] fatal: not a git repository (or any of the parent directories): .git
 2024-02-06 08:47:26.290 [info] > git rev-parse --show-toplevel [4ms]
 2024-02-06 08:47:26.290 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-06 08:57:15.067 [info] > git rev-parse --show-toplevel [13ms]
+2024-02-06 09:01:33.190 [info] > git rev-parse --show-toplevel [6ms]
