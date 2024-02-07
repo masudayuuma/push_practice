@@ -1,6 +1,3 @@
 # favorite food
 
-orange
-
-
-
+apple

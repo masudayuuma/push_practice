@@ -1,0 +1,24 @@
+2024-02-07 01:18:36.268 [info] Extension host with pid 20984 started
+2024-02-07 01:18:36.285 [info] Lock '/home/vscode/.vscode-remote/data/User/workspaceStorage/-5bc5e76d/vscode.lock': Lock acquired.
+2024-02-07 01:18:37.849 [info] ExtensionService#_doActivateExtension GitHub.codespaces, startup: false, activationEvent: 'onCommand:github.codespaces.activate'
+2024-02-07 01:18:37.850 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2024-02-07 01:18:37.850 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: false, activationEvent: '*'
+2024-02-07 01:18:37.850 [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: false, activationEvent: '*'
+2024-02-07 01:18:37.850 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2024-02-07 01:18:37.851 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-02-07 01:18:38.118 [warning] Using default string since no string found in i18n bundle that has the key: Keep Defaults
+2024-02-07 01:18:38.118 [warning] Using default string since no string found in i18n bundle that has the key: Configure Options
+2024-02-07 01:18:38.118 [warning] Using default string since no string found in i18n bundle that has the key: Finish
+2024-02-07 01:18:38.120 [warning] Using default string since no string found in i18n bundle that has the key: Learn More
+2024-02-07 01:18:38.120 [warning] Using default string since no string found in i18n bundle that has the key: Documentation on predefined container definitions
+2024-02-07 01:18:41.650 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2024-02-07 01:18:41.651 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2024-02-07 01:18:46.941 [info] Eager extensions activated
+2024-02-07 01:18:46.941 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-02-07 01:18:46.942 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-02-07 01:18:46.942 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2024-02-07 01:18:46.943 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-02-07 01:18:46.943 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2024-02-07 01:18:46.943 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2024-02-07 01:18:46.943 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2024-02-07 01:18:53.463 [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: false, activationEvent: 'api', root cause: GitHub.vscode-pull-request-github

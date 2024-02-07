@@ -54,3 +54,9 @@
 2024-02-07 00:37:54.008 [info] Extracting extension completed. github.copilot
 2024-02-07 00:37:54.023 [info] Extension installed successfully: github.copilot
 2024-02-07 00:37:54.027 [info] Marked extension as uninstalled github.copilot-1.156.0
+2024-02-07 00:42:36.311 [info] New EH opened, aborting shutdown
+2024-02-07 00:58:55.087 [info] [127.0.0.1][31d955e5][ExtensionHostConnection] The client has reconnected.
+2024-02-07 00:58:55.090 [info] [127.0.0.1][c896e93a][ManagementConnection] The client has reconnected.
+2024-02-07 01:18:20.397 [info] [127.0.0.1][729e5d7f][ManagementConnection] New connection established.
+2024-02-07 01:18:20.399 [info] [127.0.0.1][0f99cbf6][ExtensionHostConnection] New connection established.
+2024-02-07 01:18:20.410 [info] [127.0.0.1][0f99cbf6][ExtensionHostConnection] <20984> Launched Extension Host Process.
